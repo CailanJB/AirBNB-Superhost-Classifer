@@ -3,4 +3,3 @@ data
 .env
 #.ipynb_checkpoints was auotmatically added by jupyter to prvide backups of our code if a mistake was made
 .ipynb_checkpoints
-
